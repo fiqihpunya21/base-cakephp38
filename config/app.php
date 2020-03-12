@@ -20,7 +20,7 @@ return [
     'debug' => filter_var(env('DEBUG', true), FILTER_VALIDATE_BOOLEAN),
 
     /**
-     * Configure basic information about the application.
+     * Configure basic information about the application. SAYA EDIT
      *
      * - namespace - The namespace to find app classes under.
      * - defaultLocale - The default locale for translation, formatting currencies and numbers, date and time.
